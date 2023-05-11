@@ -1,1 +1,3 @@
 Men artiq githubda repozitoriy yaradmisham!
+
+Bu yeni branchdi
